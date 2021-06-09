@@ -1,4 +1,4 @@
-## Miners Guild Contract 
+## 0xLeverage 
 
 
 #### Getting Started
